@@ -21,7 +21,7 @@ public class FIbSeries {
 			System.out.print(" "+c);
 			a = b;
 			b=c;
-			printFiB(n-1);
+			printFiB(n-1); //Print
 		}
 		
 		
